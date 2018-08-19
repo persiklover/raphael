@@ -53,7 +53,7 @@ var Level = {
     worldObj.sprites.forEach(data => {
       var x   = data.x;
       var y   = data.y;
-      var url = '../' + data.img.url;
+      var url = '' + data.img.url;
       var image = loadedImages[url];
       if (!image) {
         this.imagesToLoad++;
