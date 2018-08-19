@@ -1,0 +1,778 @@
+{
+  "sprites": [
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 0,
+      "y": 160,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 0,
+      "y": 176,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 16,
+      "y": 160,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 32,
+      "y": 160,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 16,
+      "y": 176,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 32,
+      "y": 176,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 48,
+      "y": 160,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 64,
+      "y": 160,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 48,
+      "y": 176,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 64,
+      "y": 176,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 80,
+      "y": 160,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 80,
+      "y": 176,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 96,
+      "y": 160,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 96,
+      "y": 176,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 144,
+      "y": 160,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 144,
+      "y": 176,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 192,
+      "y": 160,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 192,
+      "y": 176,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/sign_1.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 134,
+      "y": 135,
+      "hasCollider": false
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 0,
+      "y": 192,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 16,
+      "y": 192,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 32,
+      "y": 192,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 48,
+      "y": 192,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 64,
+      "y": 192,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 80,
+      "y": 192,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 96,
+      "y": 192,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 144,
+      "y": 192,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 192,
+      "y": 192,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 0,
+      "y": 208,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 16,
+      "y": 208,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 32,
+      "y": 208,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 48,
+      "y": 208,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 64,
+      "y": 208,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 80,
+      "y": 208,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 96,
+      "y": 208,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 144,
+      "y": 208,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 192,
+      "y": 208,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 0,
+      "y": 96,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 0,
+      "y": 112,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 0,
+      "y": 128,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 0,
+      "y": 144,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 0,
+      "y": 32,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 0,
+      "y": 48,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 0,
+      "y": 64,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 0,
+      "y": 80,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 0,
+      "y": 0,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 0,
+      "y": 16,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 16,
+      "y": 0,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 32,
+      "y": 0,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 48,
+      "y": 0,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 64,
+      "y": 0,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 80,
+      "y": 0,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 96,
+      "y": 0,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 112,
+      "y": 0,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 128,
+      "y": 0,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 144,
+      "y": 0,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 160,
+      "y": 0,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 176,
+      "y": 0,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 192,
+      "y": 0,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 208,
+      "y": 0,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 224,
+      "y": 0,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 240,
+      "y": 0,
+      "hasCollider": true
+    },
+    {
+      "img": {
+        "url": "img/spikes.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 192,
+      "y": 144,
+      "hasCollider": false,
+      "userData": {
+        "ontouch": [
+          "die",
+          "appear"
+        ]
+      }
+    },
+    {
+      "img": {
+        "url": "img/stone.png",
+        "flipped": {
+          "x": false,
+          "y": false
+        }
+      },
+      "x": 240,
+      "y": 208,
+      "hasCollider": true
+    }
+  ]
+}
